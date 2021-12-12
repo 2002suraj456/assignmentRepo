@@ -1,3 +1,5 @@
+// do not copy the code of this !!!!
+// this is related to some other question!!!
 package a08.q2;
 
 class task1 extends Thread {
