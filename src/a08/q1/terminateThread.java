@@ -28,8 +28,6 @@ public class terminateThread {
         threadObj.start();
         
         int read = System.in.read();
-        System.out.println("value of is System.in.read() " + read);
-        System.out.println("read value in char is " + (int)'\r');
         threadObj.interrupt();
     }
 
